@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 import faiss
 from transformers import pipeline
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from streamlit_extras.add_vertical_space import add_vertical_space
+from streamlit_extras import *
 from pptx import Presentation
 from docx import Document
 from concurrent.futures import ThreadPoolExecutor
