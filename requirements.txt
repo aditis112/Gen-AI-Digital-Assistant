@@ -5,7 +5,7 @@ PyPDF2==3.0.1
 python-dotenv==1.0.0
 streamlit==1.18.1
 faiss-cpu==1.7.4
-sentence_transformers
+sentence-transformers==2.2.2  
 streamlit-extras==0.1.5
-python-pptx
-python-docx
+python-pptx==0.6.21 
+python-docx==0.8.11 
