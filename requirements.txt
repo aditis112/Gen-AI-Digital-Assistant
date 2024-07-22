@@ -1,9 +1,9 @@
+streamlit==1.24.1
 numpy==1.23.5
 transformers==4.42.4
 langchain==0.0.154
 PyPDF2==3.0.1
 python-dotenv==1.0.0
-streamlit==1.18.1
 faiss-cpu==1.7.4
 sentence-transformers==2.2.2  
 streamlit-extras==0.1.5
